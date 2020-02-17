@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Darth",
+    "Wins": "3",
+    "Losses": "5",
+    "Ties": "1"
+  },
+  {
+    "Name": "Ripley",
+    "Wins": "7",
+    "Losses": "3",
+    "Ties": "0"
+  },
+  {
+    "Name": "Anikan",
+    "Wins": "4",
+    "Losses": "2",
+    "Ties": "1"
+  },
+  {
+    "Name": "Leia",
+    "Wins": "2",
+    "Losses": "8",
+    "Ties": "3"
+  },
+  {
+    "Name": "X",
+    "Wins": "0",
+    "Losses": "0",
+    "Ties": "0"
+  },
+  {
+    "Name": "O",
+    "Wins": "0",
+    "Losses": "0",
+    "Ties": "0"
+  }
+]
